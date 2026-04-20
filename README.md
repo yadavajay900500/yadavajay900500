@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:A78BFA&height=160&section=header&text=Hey%20there!%20I'm%20YOUR_NAME%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:A78BFA&height=160&section=header&text=Hey%20there!%20I'm%20AJAY YADAV%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 - 🔭 currently working on something cool — stay tuned
 - 🌱 always exploring new tools and frameworks
 - 💬 ask me about anything **full stack** — happy to help
-- 📫 reach me at **your@email.com**
+- 📫 reach me at **yadavajay900500@gmail.com**
 - ⚡ fun fact: i drink more coffee than i write bugs ☕
 
 <br/>
